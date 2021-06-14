@@ -1,0 +1,15 @@
+
+# external requirements
+black
+credstash
+isort
+unify
+yapf
+pytest
+pytest-cov
+codecov
+pylint
+click
+Sphinx
+coverage
+awscli
